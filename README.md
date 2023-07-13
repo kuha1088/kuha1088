@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuha1088
-- 👀 I’m interested in Big Data, GIS, finance, timber
-- 🌱 I’m currently learning MySQL, Python
-- 💞️ I’m looking to collaborate on GIS for timber industry
+- 👀 I’m interested in Big Data, GIS, finance, timber, ERP Systems
+- 🌱 I’m currently learning PostgreSQL, Python, UML, BPMN
+- 💞️ I’m looking to collaborate on ERP Systems
 - 📫 How to reach me:+7-(904)-617-81-95, kuha1088@mail.ru
 
 
